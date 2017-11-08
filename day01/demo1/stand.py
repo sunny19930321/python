@@ -11,6 +11,9 @@ new_str = "这是一个全局变量"
 # else:
 #     print '不好的'
 print time.time()
+a = "中国人".decode("utf-8")
+
+print len(a)
 """
 多行注释
 """

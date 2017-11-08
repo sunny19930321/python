@@ -17,5 +17,19 @@ else:
     # del a,b,c,d
 
 str1 = "abc"
-str2 = str1.lower()
+str2 = str1.replace("b","d")
 print str2
+a = 10
+print "my name is %d"% a
+print "my name is %s %s" % ("liyang","haimeimei")
+
+a = "a"
+b = "qfwargetrsg"
+c = "fwaregfsr"
+"".join([a,b,c])
+
+d = open("demo.txt", 'r')#model: w,r,append
+# d.write("hi liyang \n")
+d.read(10000)
+d.seek(0)
+print d.read(1000)

@@ -10,3 +10,7 @@ python 中大小写是明感的
 type(参数)：确定变量是什么类型
 dir(参数)
 help(参数)
+
+int
+list
+hi liyang 
