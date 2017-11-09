@@ -1,0 +1,12 @@
+1.不可变量的数据类型：
+string，int，tuple
+可变的数据类型
+dict,list
+
+
+2.字符串也是个序列
+
+%d  数字
+%s 字符串
+
+a = "this is a %s" % "liyang"
