@@ -174,7 +174,7 @@ d = b[::-1]
 print d[:2]
 
 b = [1, 2, 3, 4, 5]
-if b.pop(2) == -1:
+if 2 in b:
     print False
 else:
     print True
@@ -202,6 +202,10 @@ if a.count(10) == 0:
     print False
 else:
     print True
+
+b = list(a)
+b[2] = 8
+print tuple(b)
 #习题6
 setinfo = set('acbdfem')
 finfo = set('sabcdef')
