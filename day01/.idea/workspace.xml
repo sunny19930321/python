@@ -42,8 +42,8 @@
       <file leaf-file-name="习题答案.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/demo1/day20answer/习题答案.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="114">
-              <caret line="36" column="27" lean-forward="false" selection-start-line="36" selection-start-column="21" selection-end-line="36" selection-end-column="27" />
+            <state relative-caret-position="-2101">
+              <caret line="145" column="55" lean-forward="true" selection-start-line="145" selection-start-column="55" selection-end-line="145" selection-end-column="55" />
               <folding>
                 <element signature="e#14#30#0" expanded="true" />
               </folding>
@@ -51,11 +51,21 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="__builtin__.py" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/Library/Caches/PyCharm2017.2/python_stubs/348993582/__builtin__.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="364" column="4" lean-forward="false" selection-start-line="364" selection-start-column="4" selection-end-line="364" selection-end-column="4" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="t.txt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/demo1/t.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="8" column="31" lean-forward="false" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="31" />
+            <state relative-caret-position="171">
+              <caret line="10" column="96" lean-forward="true" selection-start-line="10" selection-start-column="96" selection-end-line="10" selection-end-column="98" />
               <folding />
             </state>
           </provider>
@@ -98,6 +108,7 @@
         <option value="$PROJECT_DIR$/demo1/main/day19/__init__.py" />
         <option value="$PROJECT_DIR$/demo1/t.txt" />
         <option value="$PROJECT_DIR$/demo1/day20answer/test-20.py" />
+        <option value="$PROJECT_DIR$/demo1/day20answer/习题答案.py" />
       </list>
     </option>
   </component>
@@ -108,8 +119,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="260" />
-    <option name="y" value="52" />
+    <option name="x" value="476" />
+    <option name="y" value="27" />
     <option name="width" value="948" />
     <option name="height" value="848" />
   </component>
@@ -330,7 +341,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="260" y="52" width="948" height="848" extended-state="0" />
+    <frame x="476" y="27" width="948" height="848" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27593818" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -718,14 +729,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Library/Caches/PyCharm2017.2/python_stubs/348993582/__builtin__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="423" column="4" lean-forward="false" selection-start-line="423" selection-start-column="4" selection-end-line="423" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/demo1/main/day15/list_demo.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="283">
@@ -766,14 +769,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/demo1/t.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="31" lean-forward="false" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="31" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/demo1/day20answer/test-20.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="294">
@@ -784,10 +779,26 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/demo1/t.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="10" column="96" lean-forward="true" selection-start-line="10" selection-start-column="96" selection-end-line="10" selection-end-column="98" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Library/Caches/PyCharm2017.2/python_stubs/348993582/__builtin__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="364" column="4" lean-forward="false" selection-start-line="364" selection-start-column="4" selection-end-line="364" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/demo1/day20answer/习题答案.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="36" column="27" lean-forward="false" selection-start-line="36" selection-start-column="21" selection-end-line="36" selection-end-column="27" />
+        <state relative-caret-position="-2101">
+          <caret line="145" column="55" lean-forward="true" selection-start-line="145" selection-start-column="55" selection-end-line="145" selection-end-column="55" />
           <folding>
             <element signature="e#14#30#0" expanded="true" />
           </folding>
