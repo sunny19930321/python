@@ -1,0 +1,11 @@
+2017-11-24 12:02:31,604 DEBUG name 'a' is not defined
+2017-11-24 12:02:37,580 DEBUG name 'a' is not defined
+2017-11-24 12:03:01,049 DEBUG liyang is a good boy
+2017-11-24 12:03:03,546 DEBUG liyang is a good boy
+2017-11-24 12:03:18,882 DEBUG liyang is a good boy
+2017-11-24 12:03:59,152 DEBUG liyang is a good boy
+2017-11-24 12:03:59,152 WARNING liyang is a good boy
+2017-11-24 12:04:23,791 DEBUG liyang is a good boy
+2017-11-24 12:04:23,791 WARNING liyang is a good boy
+2017-11-24 12:04:26,444 DEBUG liyang is a good boy
+2017-11-24 12:04:26,444 WARNING liyang is a good boy
